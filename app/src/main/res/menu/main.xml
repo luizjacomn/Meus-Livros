@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/cadastrar"
+        android:orderInCategory="100"
+        android:title="Cadastrar"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/listar"
+        android:orderInCategory="100"
+        android:title="Listar"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/sair"
+        android:orderInCategory="100"
+        android:title="Sair"
+        app:showAsAction="never" />
+</menu>

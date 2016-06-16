@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Meus Livros</string>
+    <string name="facebook_app_id">1733565043585482</string>
+    <string name="label_listar_emprestimos">Listar Empréstimos</string>
+    <string name="label_cadastrar_emprestimo">Cadastrar Empréstimo</string>
+    <string name="label_livros">Livros</string>
+    <string name="label_emprestimos">Meus Empréstimos</string>
+    <string name="botao_salvar">Salvar</string>
+    <string name="hint_livro" >Descrição do Livro</string>
+    <string name="hint_id_emprestimo" >Insira o id do empréstimo</string>
+    <string name="text_data_emprestimo">Data do empréstimo</string>
+    <string name="text_data_devolucao">Data da devolução</string>
+
+    <string name="title_activity_list_pessoa">ListPessoaActivity</string>
+    <string name="hint_id_do_emprestimo">Id do empréstimo</string>
+    <string name="hint_descricao_do_livro">Descrição do livro</string>
+    <string name="botao_data_emprestimo">Data Empréstimo</string>
+</resources>
